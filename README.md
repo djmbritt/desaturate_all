@@ -1,3 +1,6 @@
+Updated desaturate_all for Ubuntu 20.10
+
+
 Installation
 ============
 
